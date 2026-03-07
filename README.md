@@ -27,14 +27,8 @@ After extraction, your folder should look like this:
 - `libs/` — library files  
 - `libs/nativate/` — LWJGL and OpenAL native libraries  
 - `res/` — launcher images and icons  
-- `startdef.txt` — launcher settings  
 - `README.md` — this file  
 
 **Do not change folder structure**, the launcher needs these paths to work.
 
-## How to run the launcher
 
-1. Make the binary executable:
-
-```bash
-chmod +x narodniLauncher.bin
